@@ -1,3 +1,0 @@
-﻿  rec14_test.cpp
-C:\Users\akgam\source\repos\CS2124_rec14\CS2124_rec14\rec14_test.cpp(242): warning C4715: '<lambda_b4d1f592784d1f6c8cf95ed05c4a9533>::operator()<std::list<int,std::allocator<int> > >': not all control paths return a value
-  CS2124_rec14.vcxproj -> C:\Users\akgam\source\repos\CS2124_rec14\Debug\CS2124_rec14.exe
